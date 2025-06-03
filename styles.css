@@ -137,6 +137,7 @@ body {
     top: 50%;
     transform: translateY(-50%);
     color: #6b7280;
+width:20px;
 }
 
 .form-group input,
@@ -947,7 +948,7 @@ body {
 
 @media (min-width: 1280px) {
     .properties-grid {
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(3, 1fr);
     }
 }
 
